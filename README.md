@@ -11,4 +11,4 @@
 2. La partie "2.7. Editer un potin" est à moitié finie 
 # the_gossip_project_sinatra
 
-Réalisé par https://github.com/ny-toky-fitiavana02
+Réalisé par https://github.com/ny-toky-fitiavana02 
